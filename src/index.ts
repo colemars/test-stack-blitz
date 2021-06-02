@@ -1,1 +1,1 @@
-export { api } from './petstore-api.generated';
+export { api } from './api';
